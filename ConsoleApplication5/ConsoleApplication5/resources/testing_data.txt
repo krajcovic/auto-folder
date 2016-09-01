@@ -1,0 +1,7 @@
+radek 1
+radek 2
+radek 3
+radek 4
+radek 5
+radek obsahuje slovo table:StulDKR
+radek 7
